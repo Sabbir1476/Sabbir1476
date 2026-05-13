@@ -100,7 +100,7 @@
 
 <p align="center">
   📧 bappi2205101476@diu.edu.bd <br>
-  💼 LinkedIn: https://www.linkedin.com/in/sabbir-ahmed
+  💼 LinkedIn: 
 </p>
 
 ---
